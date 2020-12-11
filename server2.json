@@ -1,0 +1,64 @@
+{
+  "feed": [
+    {
+      "id": 1,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/1.jpeg",
+      "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/1.jpeg",
+      "aspectRatio": 0.834,
+      "description": "Trabalhando em melhor estilo!",
+      "author": {
+        "id": 1,
+        "name": "Papai Noel",
+        "avatar": "https://avatars0.githubusercontent.com/u/2254731?s=50&v=4"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/2.jpeg",
+      "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/2.jpeg",
+      "aspectRatio": 0.834,
+      "description": "Um xadrez pra relaxar",
+      "author": {
+        "id": 2,
+        "name": "Prof. Aristóteles",
+        "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/3.jpeg",
+      "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/3.jpeg",
+      "aspectRatio": 0.834,
+      "description": "Um jogo as vezes cai bem :)",
+      "author": {
+        "id": 3,
+        "name": "Sr. Dev",
+        "avatar": "https://avatars2.githubusercontent.com/u/16545335?s=50&v=4"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/4.jpeg",
+      "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/4.jpeg",
+      "aspectRatio": 0.834,
+      "description": "SUPERNATURAL, eu indico!",
+      "author": {
+        "id": 4,
+        "name": "Aluno666",
+        "avatar": "https://avatars3.githubusercontent.com/u/7268910?s=50&v=4"
+      }
+    },
+    {
+      "id": 5,
+      "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/5.jpeg",
+      "small": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/instagram-clone/small/5.jpeg",
+      "aspectRatio": 0.834,
+      "description": "Code, code and more code!",
+      "author": {
+        "id": 2,
+        "name": "cleitonsouza",
+        "avatar": "https://avatars0.githubusercontent.com/u/4669899?s=50&v=4"
+      }
+    }
+  ]
+}
